@@ -1,0 +1,3 @@
+Part 1 Explanation
+
+This Java program uses a menu to let the user choose what they want to do. The user can enter two numbers, print all numbers between those numbers, find the average of the numbers, find all prime numbers between the numbers, or exit the program. The program uses a while loop to keep showing the menu until the user chooses option 5. It also uses a switch statement to decide which action to run based on the user's menu choice. The program uses for loops to print numbers, calculate the average, and check for prime numbers. It also uses if statements to make sure the user enters two numbers before trying to use options 2, 3, or 4.
